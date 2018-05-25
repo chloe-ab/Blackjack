@@ -1,0 +1,7 @@
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameLambda\TwentyOneCardGameLambda\bin\Debug\TwentyOneCardGameLambda.pdb
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameLambda\TwentyOneCardGameLambda\obj\Debug\TwentyOneCardGameLambda.csprojResolveAssemblyReference.cache
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameLambda\TwentyOneCardGameLambda\obj\Debug\TwentyOneCardGameLambda.csproj.CoreCompileInputs.cache
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameLambda\TwentyOneCardGameLambda\obj\Debug\TwentyOneCardGameLambda.pdb
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameLambda\TwentyOneCardGameLambda\bin\Debug\TwentyOneCardGameLambda.exe.config
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameLambda\TwentyOneCardGameLambda\bin\Debug\TwentyOneCardGameLambda.exe
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameLambda\TwentyOneCardGameLambda\obj\Debug\TwentyOneCardGameLambda.exe

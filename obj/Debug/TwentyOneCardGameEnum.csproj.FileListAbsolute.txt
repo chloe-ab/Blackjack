@@ -1,0 +1,7 @@
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameEnum\TwentyOneCardGameEnum\bin\Debug\TwentyOneCardGameEnum.exe.config
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameEnum\TwentyOneCardGameEnum\bin\Debug\TwentyOneCardGameEnum.exe
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameEnum\TwentyOneCardGameEnum\bin\Debug\TwentyOneCardGameEnum.pdb
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameEnum\TwentyOneCardGameEnum\obj\Debug\TwentyOneCardGameEnum.csprojResolveAssemblyReference.cache
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameEnum\TwentyOneCardGameEnum\obj\Debug\TwentyOneCardGameEnum.csproj.CoreCompileInputs.cache
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameEnum\TwentyOneCardGameEnum\obj\Debug\TwentyOneCardGameEnum.exe
+C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameEnum\TwentyOneCardGameEnum\obj\Debug\TwentyOneCardGameEnum.pdb
