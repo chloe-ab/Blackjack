@@ -5,3 +5,10 @@ C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameF
 C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameFinal\TwentyOneCardGameFinal\obj\Debug\TwentyOneCardGameFinal.csproj.CoreCompileInputs.cache
 C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameFinal\TwentyOneCardGameFinal\obj\Debug\TwentyOneCardGameFinal.exe
 C:\Users\Chloe\source\repos\TechAcademyWalkThroughConsoleApps\TwentyOneCardGameFinal\TwentyOneCardGameFinal\obj\Debug\TwentyOneCardGameFinal.pdb
+C:\Users\Chloe\source\repos\BlackjackConsoleApp\bin\Debug\TwentyOneCardGameFinal.exe.config
+C:\Users\Chloe\source\repos\BlackjackConsoleApp\bin\Debug\TwentyOneCardGameFinal.exe
+C:\Users\Chloe\source\repos\BlackjackConsoleApp\bin\Debug\TwentyOneCardGameFinal.pdb
+C:\Users\Chloe\source\repos\BlackjackConsoleApp\obj\Debug\TwentyOneCardGameFinal.csprojResolveAssemblyReference.cache
+C:\Users\Chloe\source\repos\BlackjackConsoleApp\obj\Debug\TwentyOneCardGameFinal.csproj.CoreCompileInputs.cache
+C:\Users\Chloe\source\repos\BlackjackConsoleApp\obj\Debug\TwentyOneCardGameFinal.exe
+C:\Users\Chloe\source\repos\BlackjackConsoleApp\obj\Debug\TwentyOneCardGameFinal.pdb
